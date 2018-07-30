@@ -1,0 +1,15 @@
+name: Unusable
+author: TYPE-0
+description: None of your business.
+version: 1.0.1
+main: com.c010ur1355.unusable.main
+
+commands:
+  unusable:
+    usage: on9 jai 5g dim use ga la
+    description: None of your business.
+
+permissions:
+  unusable.commands:
+    description: None of your business.
+    default: op
